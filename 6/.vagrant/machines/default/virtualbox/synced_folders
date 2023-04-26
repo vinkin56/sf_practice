@@ -1,0 +1,1 @@
+{"virtualbox":{"/volume":{"guestpath":"/volume","hostpath":"D:/vagrant/sf_practice/6/volume","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/vagrant/sf_practice/6","disabled":false,"__vagrantfile":true}}}
